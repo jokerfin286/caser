@@ -1,0 +1,698 @@
+[
+ {
+  "id": "chicken-farm",
+  "name": "Курятник",
+  "price": 149,
+  "image": "/images/cases/chicken-farm.jpg",
+  "label": "LIMITED",
+  "tagline": "Операция Chicken Farm",
+  "category": "operation",
+  "accent": "#d6ff4a",
+  "timerHours": 144,
+  "sortOrder": 0,
+  "story": "Сезонный ящик операции. На дне — контрабандный M4A4 | Howl.",
+  "skins": [
+   {
+    "id": "m4a4-faded-zebra",
+    "name": "M4A4 | Faded Zebra",
+    "rarity": "blue",
+    "price": 30,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFL0OirarZsI_GeMWWH_uJ_t-l9AXu3zBkhsDyHz4z9dXmVagJzW8MiQbFetBfrkNHhZbjr51CMiN8TyS_gznQeEoYBjXk",
+    "chance": 2500
+   },
+   {
+    "id": "p90-sand-spray",
+    "name": "P90 | Sand Spray",
+    "rarity": "blue",
+    "price": 42,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7jJk_OK8ab1SM_GdClicyOl-pK88Sn3gxU91sGiAw9mreSqROgJyCsF5EOVf50S_x9SzP7iztlaLiYJF02yg2VFl2-bi",
+    "chance": 2200
+   },
+   {
+    "id": "galil-ar-sage-spray",
+    "name": "Galil AR | Sage Spray",
+    "rarity": "blue",
+    "price": 58,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OG-V7d9MvGKMWOV0utkpN56Ti62qhEutDWR1N6qcCqSOgEiCsMhQLZftxnpxtfkP-Ph71eMjYtDmCX3jytO5nlt5OkcEf1yc_oaZQU",
+    "chance": 2000
+   },
+   {
+    "id": "glock-18-steel-disruption",
+    "name": "Glock-18 | Steel Disruption",
+    "rarity": "purple",
+    "price": 96,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1a4s2qbLRsNPSWAHSV_v1_vPdsXRa_nBovp3PWmYuhdnyebAdyWJUjE7ResBC6xoXhZe_j7w3Zid1Aziio3SlI5iw__a9cBqG4HP4O",
+    "chance": 1800
+   },
+   {
+    "id": "p250-wingshot",
+    "name": "P250 | Wingshot",
+    "rarity": "purple",
+    "price": 194,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0OL8PfRSI-KSDWyDyeFij-1gSCGn205wtT7Xn4yuc3qQbQUkXJQmEeQCtkK7wdDgZO7n71Df2IkQxH7-hyhXrnE8AH9Qqg8",
+    "chance": 700
+   },
+   {
+    "id": "usp-s-caiman",
+    "name": "USP-S | Caiman",
+    "rarity": "pink",
+    "price": 298,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSI-WsBWaZzO94j-1gSCGn20t-4WyBn4mocC6XbVN0CMB2RLYMsUG5x9DgN-20tQSNiI1GzS2q3XtXrnE8NAiGp64",
+    "chance": 500
+   },
+   {
+    "id": "desert-eagle-kumicho-dragon",
+    "name": "Desert Eagle | Kumicho Dragon",
+    "rarity": "pink",
+    "price": 670,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKF-JeKHC2aXzetJu_RkRiq7mhk1sjqKlLD1KCzPKhh0CcBwQLVe5BHrloKyZOnr5w3XiYhDnC39iCpK7X1psrlUWaFw8qXekUifZlV_fDVZ",
+    "chance": 200
+   },
+   {
+    "id": "ak-47-bloodsport",
+    "name": "AK-47 | Bloodsport",
+    "rarity": "red",
+    "price": 2086,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiVI0POlPPNSIvycAWOD0eFkpN5lRi67gVN15mmDw9egci_EPFAkDMQlTeZe4EXplNa0Yrvr5wbd345GyHioiC4b8G81tFuqg_k_",
+    "chance": 80
+   },
+   {
+    "id": "m4a4-howl",
+    "name": "M4A4 | Howl",
+    "rarity": "gold",
+    "price": 11920,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afVSKP-EAm6extF6ueZhW2exwkl2tmTXwt39eCiUPQR2DMN4TOVetUK8xoLgM-K341eM2otDnC6okGoXufBz_TAB",
+    "chance": 20
+   }
+  ]
+ },
+ {
+  "id": "crimson-leaf",
+  "name": "Багровый лист",
+  "price": 39,
+  "image": "/images/cases/crimson-leaf.jpg",
+  "label": "NEW",
+  "tagline": "Осенний контракт",
+  "category": "new",
+  "accent": "#ef4444",
+  "timerHours": null,
+  "sortOrder": 1,
+  "story": "Красная линейка: от Elite Build до легендарного Redline и Crimson Web.",
+  "skins": [
+   {
+    "id": "ak-47-elite-build",
+    "name": "AK-47 | Elite Build",
+    "rarity": "blue",
+    "price": 8,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlPPNSLfGAGmKC2NF6ueZhW2e2wh9y5GjTztirdSqfP1dyCpclR7FZ5xe9wNbhZei25FGPjokXxC2vkGoXuQLr5jvs",
+    "chance": 2500
+   },
+   {
+    "id": "glock-18-candy-apple",
+    "name": "Glock-18 | Candy Apple",
+    "rarity": "blue",
+    "price": 12,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1I4M28baBSLPmUBnPelb93teA-FivjzB5wsjzTyI2pIn_CPAMoW8N3ROJZshm5w9zgNbnk5xue1dyMA9ZU_Q",
+    "chance": 2200
+   },
+   {
+    "id": "mp9-hot-rod",
+    "name": "MP9 | Hot Rod",
+    "rarity": "blue",
+    "price": 16,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_Cxk_feqV6hkJ_iHQD7Cl7ou5rlsGyi2wBgh4WyDytmqcC6fbQAhC8chEeZZtRLrw4LlNLz8p1uJeM3XA-E",
+    "chance": 2000
+   },
+   {
+    "id": "usp-s-blood-tiger",
+    "name": "USP-S | Blood Tiger",
+    "rarity": "blue",
+    "price": 21,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSKOmsHGKU1edxtfNWQyC0nQlptWWEzd-qd3mVbgR2WZYiFuUMtUG7x4HhYeLhs1fZiN1DnC6viH4Y7TErvbgp6HjWjQ",
+    "chance": 1800
+   },
+   {
+    "id": "tec-9-red-quartz",
+    "name": "Tec-9 | Red Quartz",
+    "rarity": "purple",
+    "price": 51,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wiNW0PG8cbd5IfyfB32VxdF6ueZhW2e3xU13tzmAmdqsIC6TPw8hCcF3ReADuxPtl9ThNu3qtVPbjdlFny2okGoXub5yNIFB",
+    "chance": 700
+   },
+   {
+    "id": "m4a4-evil-daimyo",
+    "name": "M4A4 | Evil Daimyo",
+    "rarity": "purple",
+    "price": 78,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSJeaaAliUwOd7qe5WQyC0nQlp4GqGz42ucCqXaQMhDpd4R-AIsxK6ktXgZePltVPXitoRn3-tjCgd6zErvbijVJZd2Q",
+    "chance": 500
+   },
+   {
+    "id": "ak-47-redline",
+    "name": "AK-47 | Redline",
+    "rarity": "pink",
+    "price": 176,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlPPNSI_-RHGavzedxuPUnFniykEtzsWWBzoyuIiifaAchDZUjTOZe4RC_w4buM-6z7wzbgokUyzK-0H08hRGDMA",
+    "chance": 200
+   },
+   {
+    "id": "desert-eagle-code-red",
+    "name": "Desert Eagle | Code Red",
+    "rarity": "red",
+    "price": 546,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWaXxvxzo_JmXRa_nBovp3PRmNj4c3mTb1RxC5cjF-EItRnrlNzkYrnk5gaI3Y0UmyX52H9K7ixs_a9cBsGEcOCn",
+    "chance": 80
+   },
+   {
+    "id": "st-falchion-knife-crimson-web",
+    "name": "★ Falchion Knife | Crimson Web",
+    "rarity": "gold",
+    "price": 3120,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-bF1iHxOxlj-1gSCGn20t242-Eno34cC6SOgYoCZZzE-JesxawkIG0Pry24lCKj4IRzn-th3xXrnE8QWIt39g",
+    "chance": 20
+   }
+  ]
+ },
+ {
+  "id": "neon-kiln",
+  "name": "Неоновая печь",
+  "price": 99,
+  "image": "/images/cases/neon-kiln.jpg",
+  "label": "NEW",
+  "tagline": "Раскалённый неон",
+  "category": "new",
+  "accent": "#22d3ee",
+  "timerHours": null,
+  "sortOrder": 2,
+  "story": "Неон и кислота: Neon Rider, Cyrex и Doppler для тех, кто любит шум в ленте.",
+  "skins": [
+   {
+    "id": "mp7-neon-ply",
+    "name": "MP7 | Neon Ply",
+    "rarity": "purple",
+    "price": 20,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V7ZoMPyaDWavzedxuPUnGS2wzBglsm6AnNyqJHLBOAdyCZV0ELIN5xC6kNThY-jqslbbid4WyjK-0H0WWbSZ_g",
+    "chance": 2500
+   },
+   {
+    "id": "mp9-hypnotic",
+    "name": "MP9 | Hypnotic",
+    "rarity": "purple",
+    "price": 30,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_CNk-fe8fK1qL8-fB2CY1aAutbY-TXm2wkRz5zjdzNytIi3GbVQhW8ElRu8L5hK7mtfvNbu04lGMlcsbmn-Uk_5D",
+    "chance": 2200
+   },
+   {
+    "id": "galil-ar-stone-cold",
+    "name": "Galil AR | Stone Cold",
+    "rarity": "purple",
+    "price": 42,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0PW9V6NsLPmfMWmZxuZip-hnSBa_nBovp3PSnI2heXqXOwQjDpcmQ-UN5BjrmtexP-rgswDajotBxCz5iyhMui5u_a9cBuYTcBV8",
+    "chance": 2000
+   },
+   {
+    "id": "p250-asiimov",
+    "name": "P250 | Asiimov",
+    "rarity": "pink",
+    "price": 54,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0OL8PfRSIeOaB2qf19F6ueZhW2fixx53tWqEm4ugeXuebQN0CZJyRrMJuxm4loCyPr_i51TfjtgXzi79kGoXuUXmUJzm",
+    "chance": 1800
+   },
+   {
+    "id": "mac-10-neon-rider",
+    "name": "MAC-10 | Neon Rider",
+    "rarity": "red",
+    "price": 129,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-dC2ie0-dytfNWQyC0nQlp5DzTntmgdC7COABxX5NxQrUOtUS5w4LgMu6zsVCK2IJCmyisjitM6DErvbicsEA0SQ",
+    "chance": 700
+   },
+   {
+    "id": "glock-18-bullet-queen",
+    "name": "Glock-18 | Bullet Queen",
+    "rarity": "red",
+    "price": 198,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK6HLMXCR0-N3ueVsQRa_nBovp3PQydf4dXuSalUgCJZwRrILthi9kYDlMe_m4g2Ij90Um3moiXkc6SZj_a9cBgLxwlYC",
+    "chance": 500
+   },
+   {
+    "id": "m4a1-s-cyrex",
+    "name": "M4A1-S | Cyrex",
+    "rarity": "red",
+    "price": 446,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_OGMWrEwL9lj-JwXSyrqhEutDWR1N77cimSbQQgC8F5QLYCsELpltTnZuvk7wbcjdhDzy_43yMb6ilvt7kcEf1yDWu2yf8",
+    "chance": 200
+   },
+   {
+    "id": "ak-47-neon-rider",
+    "name": "AK-47 | Neon Rider",
+    "rarity": "red",
+    "price": 1386,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlV6poL_6sHG6UxPxJvOhuRz39xkQhsTnVzoygdy7Ea1UoCZQkRe9bs0brl9TvN-m0tVHYjY5CyS35jjQJsHhk4o5zcA",
+    "chance": 80
+   },
+   {
+    "id": "st-karambit-doppler",
+    "name": "★ Karambit | Doppler",
+    "rarity": "gold",
+    "price": 7920,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q7uCvZaZkNM-SA1iDwP5muOh7Sha-lA8lvziMgIr9HifOOV5kFMRxFuEM5hi_xNXhMbmx5VCMjd9MyCv6jigc6n064ucLAvZ3_6bViV3fcepqpLtspE0",
+    "chance": 20
+   }
+  ]
+ },
+ {
+  "id": "feather-contract",
+  "name": "Контракт «Перо»",
+  "price": 249,
+  "image": "/images/cases/feather-contract.jpg",
+  "label": null,
+  "tagline": "Тихая поставка",
+  "category": "operation",
+  "accent": "#e7e5e4",
+  "timerHours": 48,
+  "sortOrder": 3,
+  "story": "Строгий графит и медь: Golden Coil, Wildfire и Tiger Tooth по таймеру операции.",
+  "skins": [
+   {
+    "id": "m4a1-s-basilisk",
+    "name": "M4A1-S | Basilisk",
+    "rarity": "purple",
+    "price": 50,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_GCMWrEwL9lj-NoXCC_nA4sjDGMnYftbyqVPwUiX5V5ReUDuxC5m9zmNOPktAHYiIgXzSz43C4a7Sg_6uZQVKU7uvqA7bOYRbA",
+    "chance": 2500
+   },
+   {
+    "id": "glock-18-ironwork",
+    "name": "Glock-18 | Ironwork",
+    "rarity": "blue",
+    "price": 75,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1a_s2pZKtuK8-XD3WbjOh3vO1WQyC0nQlp5jmEmNaodH6VbwMnApshEOcPskOww4e0N-qz5lPZ2YlGyCSviika6zErvbhhWFzqpw",
+    "chance": 2200
+   },
+   {
+    "id": "famas-djinn",
+    "name": "FAMAS | Djinn",
+    "rarity": "pink",
+    "price": 105,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1a_s2oaalsM8-ZB2me_uJ_t-l9AXzhwxt-5TiAzdmgd3yeaQ50DZRxEe5b4BXrm4HkPr7kslfcg9pCznjgznQepOOy8CM",
+    "chance": 2000
+   },
+   {
+    "id": "desert-eagle-conspiracy",
+    "name": "Desert Eagle | Conspiracy",
+    "rarity": "pink",
+    "price": 137,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ_yWMWaF0-tjo95lRi67gVMk4WTSm9moI3-QPVBxDJByQOJe40O6k4fnM-zgsQXci4gUyH3_3CMa8G81tJHuULJI",
+    "chance": 1800
+   },
+   {
+    "id": "m4a1-s-golden-coil",
+    "name": "M4A1-S | Golden Coil",
+    "rarity": "red",
+    "price": 324,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_eAMWrEwL9lj_JnTiK2lxQztgKClYP9HifOOV5kFJclQ-Jb5xW-m9CxPuLq4QTfjd0XzyX6jCpL6X5o5OgDVfYn_a2Ci1rfcepqgV49FrE",
+    "chance": 700
+   },
+   {
+    "id": "m4a4-buzz-kill",
+    "name": "M4A4 | Buzz Kill",
+    "rarity": "red",
+    "price": 498,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6afBSM_WQGmiC_uJ_t-l9AX22kBh0tm3Qn92qdS7GPARyW5t0QLQD4xi6w9XkZe3jsgDW3ogUnH3gznQeqfpfmso",
+    "chance": 500
+   },
+   {
+    "id": "ak-47-fuel-injector",
+    "name": "AK-47 | Fuel Injector",
+    "rarity": "red",
+    "price": 1121,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiVI0POlPPNSM-WDC3WTye9kt-RtcCW6khUz_WuGy9_8dHuRbg5xW5IjQ-BYshK9mta0NLmw4lDa2o0Wni_3iy4f6np1o7FVB0pWHHg",
+    "chance": 200
+   },
+   {
+    "id": "awp-wildfire",
+    "name": "AWP | Wildfire",
+    "rarity": "red",
+    "price": 3486,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7NkLPSVB3WV_uJ_t-l9AX7rxhl-tmzSwomtdC6TPwQnW5UkR-YD5kK-ltCzP-Ox4FfXiNoQyyrgznQeu9L0PzQ",
+    "chance": 80
+   },
+   {
+    "id": "st-m9-bayonet-tiger-tooth",
+    "name": "★ M9 Bayonet | Tiger Tooth",
+    "rarity": "gold",
+    "price": 19920,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Wts2sab1iLvWHMWae_vp_t-R7cCahlBMgtgKJk4jxNWWTa1QhDMMmQOMJ5BPtkYHuM-KwsVTYjIoQy3n-iStL7yxj57wDB_cs5OSJ2H8uCzPz",
+    "chance": 20
+   }
+  ]
+ },
+ {
+  "id": "violet-hour",
+  "name": "Фиолетовый час",
+  "price": 69,
+  "image": "/images/cases/violet-hour.jpg",
+  "label": "HOT",
+  "tagline": "Сумерки над рынком",
+  "category": "standard",
+  "accent": "#a855f7",
+  "timerHours": null,
+  "sortOrder": 4,
+  "story": "Сирень и неон: Fever Dream, Neo-Noir и перчатки Pandora's Box на самом дне.",
+  "skins": [
+   {
+    "id": "sg-553-pulse",
+    "name": "SG 553 | Pulse",
+    "rarity": "purple",
+    "price": 14,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-DG2uDxNF6ueZhW2eykUh24jjczYqscH7GblIpCJBxF-AD4BHtxIKzM-nq5ACK3t1GyySskGoXuRyAaawM",
+    "chance": 2500
+   },
+   {
+    "id": "mac-10-heat",
+    "name": "MAC-10 | Heat",
+    "rarity": "purple",
+    "price": 21,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-BC2OYzvpJvOhuRz39xR5w4GzUyo6pdnuUawMpWJokTLUL50K6l9XiNO7i4lGKiYsRxCv6jTQJsHim4lDW8g",
+    "chance": 2200
+   },
+   {
+    "id": "usp-s-guardian",
+    "name": "USP-S | Guardian",
+    "rarity": "purple",
+    "price": 29,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSI-WsG3SA_ut6teZoQT2MmRQguynLyd76I32fbFUkD5EmRu4Ct0O4m9fmY-zlsQSMiN9CnHj2jitL531o4fFCD_TZrkjVNw",
+    "chance": 2000
+   },
+   {
+    "id": "desert-eagle-meteorite",
+    "name": "Desert Eagle | Meteorite",
+    "rarity": "blue",
+    "price": 38,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Ra7Z0M-SSAmuZ2-tyj-VoXSKMmRQguynLyN-qIH3Daw4mCZR3EeBbsUO-l4a2Prvm7gzWg4MXnymq2H8Yui9usfFCD_RyA7Mmlw",
+    "chance": 1800
+   },
+   {
+    "id": "awp-fever-dream",
+    "name": "AWP | Fever Dream",
+    "rarity": "pink",
+    "price": 90,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7R-OfObAXeR1eZJvOhuRz39kE1w4jiAzNiod3qTOgcgXpAlQ-ML5hjqxtHjZOrrtlHWit9EyCj9iDQJsHhCZP-wUg",
+    "chance": 700
+   },
+   {
+    "id": "glock-18-grinder",
+    "name": "Glock-18 | Grinder",
+    "rarity": "purple",
+    "price": 138,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1a_s2pZKtuK8-QAW6cxOpJvOhuRz39w00lsG-BnNj7cniROgd1WZRzReIDsBewk9G0YeOw5gWPi40Xnnr4hzQJsHiNyVoujA",
+    "chance": 500
+   },
+   {
+    "id": "ak-47-frontside-misty",
+    "name": "AK-47 | Frontside Misty",
+    "rarity": "pink",
+    "price": 311,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlPPNSN_mdGmKC_v1mv_N9cCW6khUz_WvRm9r8JS-SaFMmWcN5ReMD4BDsltDkN-Prs1DfjN9Cn3r_jC4YvHl1o7FVgJsyBlQ",
+    "chance": 200
+   },
+   {
+    "id": "awp-neo-noir",
+    "name": "AWP | Neo-Noir",
+    "rarity": "red",
+    "price": 966,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzedxuPUnHirrxR4l423SyI39I3KXPwdxWZclQeNZ5EXskYfnNeyw71OMi9lNzDK-0H3r66pOTw",
+    "chance": 80
+   },
+   {
+    "id": "st-sport-gloves-pandora-s-box",
+    "name": "★ Sport Gloves | Pandora's Box",
+    "rarity": "gold",
+    "price": 5520,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H-CGHHecxNF6ueZhW2exk01w4j7cmYn4eHPCbAMhApdwTOIN5BPsx9yyYu605FTeid0Uy3j3kGoXueKyz5wo",
+    "chance": 20
+   }
+  ]
+ },
+ {
+  "id": "gold-dust",
+  "name": "Золотая пыль",
+  "price": 499,
+  "image": "/images/cases/gold-dust.jpg",
+  "label": "LIMITED",
+  "tagline": "Для тех, кто ставит много",
+  "category": "premium",
+  "accent": "#f5c16c",
+  "timerHours": null,
+  "sortOrder": 5,
+  "story": "Премиальный пул: Case Hardened, Gold Arabesque, Dragon Lore и Butterfly Fade.",
+  "skins": [
+   {
+    "id": "desert-eagle-golden-koi",
+    "name": "Desert Eagle | Golden Koi",
+    "rarity": "red",
+    "price": 100,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6dsLPWAMWWCwPh5j-1gSCGn20om6jyGw9qgJHmQaAcgC8MmR7IMthm5m4W2M7zj7wOIj4pGn32o23hXrnE8VHBG1O4",
+    "chance": 2500
+   },
+   {
+    "id": "usp-s-orion",
+    "name": "USP-S | Orion",
+    "rarity": "pink",
+    "price": 150,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn17jJk_PuibapuJeLdWGLFwL8i4eVsFiqxxUt34jmHnoysJ3qVOAYgCJZwQrRb5EPul4XlYvSiuVIHgy4Xvg",
+    "chance": 2200
+   },
+   {
+    "id": "ak-47-case-hardened",
+    "name": "AK-47 | Case Hardened",
+    "rarity": "pink",
+    "price": 200,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNK0P2nZKFpH_yaCW-Ej7sk5bE8Sn-2lEpz4zndzoyvdHuUPwFzWZYiE7EK4Bi4k9TlY-y24FbAy9USGSiZd5Q",
+    "chance": 2000
+   },
+   {
+    "id": "awp-lightning-strike",
+    "name": "AWP | Lightning Strike",
+    "rarity": "red",
+    "price": 280,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_C9k4_upYLBjKf6UMWaH0dF6ueZhW2frwU1_sW2EmNyvc32RZwMpCpcjQ-EJ4xbtmt3gYezk4wzb3tpAy3mrkGoXubsGIfVN",
+    "chance": 1800
+   },
+   {
+    "id": "glock-18-fade",
+    "name": "Glock-18 | Fade",
+    "rarity": "purple",
+    "price": 650,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1a7s2oaaBoH_yaCW-Ej-8u5bZvHnq1w0Vz62TUzNj4eCiVblMmXMAkROJeskLpkdXjMrzksVTAy9US8PY25So",
+    "chance": 700
+   },
+   {
+    "id": "m4a4-poseidon",
+    "name": "M4A4 | Poseidon",
+    "rarity": "pink",
+    "price": 1000,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0OKhe6FkJP-dMWuZxuZi_uM9Sn23xkx_sG3VyNyqcnnFZgchDMYjQuMJtRHuw9PvZuPjtlCI3d9bjXKpHL2aoaM",
+    "chance": 500
+   },
+   {
+    "id": "ak-47-gold-arabesque",
+    "name": "AK-47 | Gold Arabesque",
+    "rarity": "red",
+    "price": 2250,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiVI0POlPPNSJ_-fCliR0-90tfJ4WiyMmRQguynLntmvICieOARzCpMhF-BYsRe-xoHvYu_g5lSNj4NDyy2viCwY6Hlu5_FCD_Q1jEqYuQ",
+    "chance": 200
+   },
+   {
+    "id": "awp-dragon-lore",
+    "name": "AWP | Dragon Lore",
+    "rarity": "red",
+    "price": 7000,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk4veqYaF7IfysCnWRxuF4j-B-Xxa_nBovp3Pdwtj9cC_GaAd0DZdwQu9fuhS4kNy0NePntVTbjYpCyyT_3CgY5i9j_a9cBkcCWUKV",
+    "chance": 80
+   },
+   {
+    "id": "st-butterfly-knife-fade",
+    "name": "★ Butterfly Knife | Fade",
+    "rarity": "gold",
+    "price": 39900,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD2avx-9ytd5lRi67gVNwsDvSwtqqc3iXZg4kCZYjReYLtRbum9XgYuvm5wbWjtgUzCn3iSsf8G81tFEeH9rw",
+    "chance": 20
+   }
+  ]
+ },
+ {
+  "id": "frost-protocol",
+  "name": "Ледяной протокол",
+  "price": 29,
+  "image": "/images/cases/frost-protocol.jpg",
+  "label": null,
+  "tagline": "Холодный расчёт",
+  "category": "standard",
+  "accent": "#7dd3fc",
+  "timerHours": null,
+  "sortOrder": 6,
+  "story": "Хороший старт: дешёвые синие и Blood in the Water, если повезёт.",
+  "skins": [
+   {
+    "id": "ssg-08-blue-spruce",
+    "name": "SSG 08 | Blue Spruce",
+    "rarity": "blue",
+    "price": 6,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I4M2jZ7d-H_yaCW-Ej7sl6OVsHXHizUQksGyDyNn7dH-WZgEgXJshFOdZskO6xoC1Y-LjtVDAy9US2YFh0PQ",
+    "chance": 2500
+   },
+   {
+    "id": "five-seven-forest-night",
+    "name": "Five-SeveN | Forest Night",
+    "rarity": "blue",
+    "price": 9,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SJv-BC3SE_uB_t-l9cCW6khUz_T7Untv9cXmfPAEnCZFwRLUJtEXtxN3iN-mz7gffjtkRnir-2nkauyx1o7FVpfrK-Xo",
+    "chance": 2200
+   },
+   {
+    "id": "m4a4-urban-ddpat",
+    "name": "M4A4 | Urban DDPAT",
+    "rarity": "blue",
+    "price": 12,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwipC0PaqeKV5H-WBDFicyOl-pK8xF3DjzR5_4zncnouhcSjGPQ8jA5B3ELFbuhPqloDkPrvjsgXY2t5N02yg2Rf5X8A9",
+    "chance": 2000
+   },
+   {
+    "id": "ak-47-safari-mesh",
+    "name": "AK-47 | Safari Mesh",
+    "rarity": "blue",
+    "price": 16,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wjFL0P-re6xSNPGdMWuZxuZi_rIxSirkkElyt2qEzI2heXiTaVIiX5siROQJtxnul4XnYbvgswOMgolbjXKpnRk9Yjk",
+    "chance": 1800
+   },
+   {
+    "id": "m4a1-s-guardian",
+    "name": "M4A1-S | Guardian",
+    "rarity": "pink",
+    "price": 38,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_OGMWrEwL87o95sQyy0lBMzjDGMnYftb3-QPFUlWZJ1F7VbsBi7xoa0Y7vl5ACP2ohEzX-t2iJA7Xtv4ugKWaQ7uvqAAzqYQbE",
+    "chance": 700
+   },
+   {
+    "id": "glock-18-water-elemental",
+    "name": "Glock-18 | Water Elemental",
+    "rarity": "pink",
+    "price": 58,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK72fB3aFxP11te99cCW6khUz_TjVyompc3-QOFR2DJQkFOMJtBbqk9LlY-7n5QLZjtkTxCWqhixPv311o7FVIf8eASQ",
+    "chance": 500
+   },
+   {
+    "id": "ssg-08-blood-in-the-water",
+    "name": "SSG 08 | Blood in the Water",
+    "rarity": "red",
+    "price": 131,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1Y-s29YKV_K8-fB2CY1aAmsbFtFnDilkUl5j7UzoqsInmVaFd0XMMlELYDshbuxNPvP-yxtlCMlcsbmlWiixNl",
+    "chance": 200
+   },
+   {
+    "id": "awp-containment-breach",
+    "name": "AWP | Containment Breach",
+    "rarity": "red",
+    "price": 406,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMuWAMWuZxuZi_rQ6SXq1xURysj_Vw4uhJHOVPQ8oCZt4QrRbtRi6ldPlPu_g4FHaiYNbjXKpcPI_17A",
+    "chance": 80
+   },
+   {
+    "id": "st-flip-knife-blue-steel",
+    "name": "★ Flip Knife | Blue Steel",
+    "rarity": "gold",
+    "price": 2320,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d4_u-V6V8H_KfG2KU_uJ_t-l9ASqyzBl14jnXwoyuJCmeZwAiDpolRrFf4EXswN3iNrmw4FPZg9hMmSjgznQe7J0ACeg",
+    "chance": 20
+   }
+  ]
+ },
+ {
+  "id": "night-market",
+  "name": "Ночной рынок",
+  "price": 19,
+  "image": "/images/cases/night-market.jpg",
+  "label": null,
+  "tagline": "Самый доступный вход",
+  "category": "standard",
+  "accent": "#e7a15a",
+  "timerHours": null,
+  "sortOrder": 7,
+  "story": "Первый кейс, если хочется просто покрутить рулетку.",
+  "skins": [
+   {
+    "id": "p250-sand-dune",
+    "name": "P250 | Sand Dune",
+    "rarity": "blue",
+    "price": 4,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFU0OGvZqBSLPmUBnPelesn5-RrSXDlwRhx5TjSwtmocCifPwQpDpshReBfsxPrk4DhNu3jshue1dy8VcXxuA",
+    "chance": 2500
+   },
+   {
+    "id": "nova-predator",
+    "name": "Nova | Predator",
+    "rarity": "blue",
+    "price": 6,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwjFL0OirarZsI_GeMWuZxuZi_rE8Fy2xx0h25z-Eyt77eSnEbw8mXJEmQeMP5EXrx4ezN7jgtAKNjIlbjXKpxHjTAt0",
+    "chance": 2200
+   },
+   {
+    "id": "mp9-storm",
+    "name": "MP9 | Storm",
+    "rarity": "blue",
+    "price": 9,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f7i1k_OaheqlrMv-dGlicyOl-pK8_S3zjxRh_5mmGn9epIymQPQBxDpQlFuUJ5xa6kt2yZLjkswLY2ooT02yg2WH9Y1dp",
+    "chance": 2000
+   },
+   {
+    "id": "glock-18-night",
+    "name": "Glock-18 | Night",
+    "rarity": "blue",
+    "price": 14,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1I4M2gYaNlNM-fB2CY1aAmtOU-S33jwEwhtWvdzIr4cHvCPwR1DZdxQrFZt0bsloLjP7jg4VGMlcsbmvNarNNc",
+    "chance": 1800
+   },
+   {
+    "id": "p90-module",
+    "name": "P90 | Module",
+    "rarity": "blue",
+    "price": 25,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf_Cxk_f23aahvLPWWClicyOl-pK8_Sn_rwE1x5z6AyY6qeXmRb1cgWMNwR7Ff4Bm_m9y0Przq4A3b348Q02yg2QQMyM9M",
+    "chance": 700
+   },
+   {
+    "id": "five-seven-monkey-business",
+    "name": "Five-SeveN | Monkey Business",
+    "rarity": "pink",
+    "price": 38,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-NoQSi9lCIrujqNjsGheXmXPQcoWMFzEO5ZtUOwkILjY7yzsg3ci91DySiohn4buCht4eYET-N7rZVO80Su",
+    "chance": 500
+   },
+   {
+    "id": "usp-s-cyrex",
+    "name": "USP-S | Cyrex",
+    "rarity": "purple",
+    "price": 86,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSI-WsG3SA_u1vouRxcCW6khUz_TjdzdmsJyiTZg8kX8N4ELUP5EPsw9G1YeLn5VTXjY0WxS6rhiIYuCd1o7FV2N83Spg",
+    "chance": 200
+   },
+   {
+    "id": "awp-atheris",
+    "name": "AWP | Atheris",
+    "rarity": "purple",
+    "price": 266,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V7JkMPWBMWuZxuZi_rZsS3zgzU8isW3dnIr6eHKfPVAhDpojEe9YsUW4xta1Nuzm5FDci4NbjXKpmWVQppo",
+    "chance": 80
+   },
+   {
+    "id": "st-gut-knife-safari-mesh",
+    "name": "★ Gut Knife | Safari Mesh",
+    "rarity": "gold",
+    "price": 1520,
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c-uaRe7RSLfWABliEwOBJvOhuRz39wU12sWnczIyuI3mQbFAnD8RyTLVc4BHukIfmZbjq4Vba2IlMzyT43DQJsHjApBIhpw",
+    "chance": 20
+   }
+  ]
+ }
+]
